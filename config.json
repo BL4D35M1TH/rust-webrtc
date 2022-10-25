@@ -1,0 +1,15 @@
+{
+    "socket": {
+        "url": "http://localhost:3000?uin=BOB&type=MavDrone"
+    },
+    "video": {
+        "device": "/dev/video0"
+    },
+    "web_rtc": {
+        "urls": [
+            "turn:localhost:5450"
+        ],
+        "username": "test",
+        "credential": "test"
+    }
+}
